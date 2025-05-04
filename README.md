@@ -1,5 +1,12 @@
 # 🧾 farsi-text-extractor
 
+## 🚀 Usage (No install required)
+
+Run directly using [npx](https://www.npmjs.com/package/npx):
+
+````bash
+npx farsi-text-extractor
+
 A simple CLI tool that extracts Persian (Farsi) UI strings from `.js`, `.jsx`, `.ts`, and `.tsx` files in your `src/` folder — ideal for preparing your app for translation (`i18n`).
 
 ## ✨ Features
@@ -18,4 +25,4 @@ A simple CLI tool that extracts Persian (Farsi) UI strings from `.js`, `.jsx`, `
 
 ```bash
 npx farsi-text-extractor
-```
+````
