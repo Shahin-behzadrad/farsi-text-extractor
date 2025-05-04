@@ -1,4 +1,4 @@
-# 🧾 extract-farsi-texts
+# 🧾 farsi-text-extractor
 
 A simple CLI tool that extracts Persian (Farsi) UI strings from `.js`, `.jsx`, `.ts`, and `.tsx` files in your `src/` folder — ideal for preparing your app for translation (`i18n`).
 
@@ -17,5 +17,5 @@ A simple CLI tool that extracts Persian (Farsi) UI strings from `.js`, `.jsx`, `
 ### Without installing anything (via `npx`):
 
 ```bash
-npx extract-farsi-texts
+npx farsi-text-extractor
 ```
