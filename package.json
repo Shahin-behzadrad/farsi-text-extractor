@@ -1,6 +1,6 @@
 {
   "name": "farsi-text-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to extract Farsi strings from JSX/TSX/JS/TS files for translation",
   "main": "index.js",
   "bin": {
@@ -13,6 +13,10 @@
     "extract",
     "translate"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shahin-behzadrad/farsi-text-extractor.git"
+  },
   "author": "Shahin Behzadrad",
   "license": "MIT",
   "engines": {

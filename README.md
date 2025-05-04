@@ -8,7 +8,7 @@ A simple CLI tool that extracts Persian (Farsi) UI strings from `.js`, `.jsx`, `
   - JavaScript / TypeScript string literals
   - JSX elements like `<span>توضیح</span>`
 - Transforms template variables from `${variable}` into `{{variable}}` for translator-friendly formatting
-- Outputs all strings into a single `en.json` file in your project root
+- Outputs all strings into a single `extractedTexts.json` file in your project root
 
 ---
 
