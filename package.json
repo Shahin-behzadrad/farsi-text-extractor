@@ -1,10 +1,10 @@
 {
   "name": "farsi-text-extractor",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "CLI tool to extract Farsi strings from JSX/TSX/JS/TS files for translation",
   "main": "index.js",
   "bin": {
-    "extract-farsi-texts": "./index.js"
+    "farsi-text-extractor": "./index.js"
   },
   "keywords": [
     "farsi",
