@@ -1,14 +1,11 @@
 {
   "name": "farsi-text-extractor",
   "version": "1.0.0",
+  "description": "CLI tool to extract Farsi strings from JSX/TSX/JS/TS files for translation",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "extract-farsi-texts": "./index.js"
   },
-  "description": "CLI tool to extract Farsi strings from JSX/TSX/JS/TS files for translation",
   "keywords": [
     "farsi",
     "i18n",
@@ -17,5 +14,8 @@
     "translate"
   ],
   "author": "Shahin Behzadrad",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
 }
